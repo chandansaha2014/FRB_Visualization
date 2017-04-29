@@ -1,0 +1,7 @@
+class,category,starting balance,rule
+asset,Cash,50000.00,should not fall below 20000
+asset,Loans,100000.00,temp
+liability,Fed Funds,0,temp
+liability,Checking,20000.00,temp
+liability,CDs,55000.00,temp
+liability,Savings,75000.00,temp

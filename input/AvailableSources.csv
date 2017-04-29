@@ -1,0 +1,6 @@
+type,available_amount,funding_cost,increment_size
+Fed Funds Line,25000.00,1.25,500
+Checking Deposits,35000.00,0.25,10
+CDs - 1 year term,25000.00,0.75,50
+CDs - 5 year term,27000.00,1.00,75
+Savings,30000.00,0.50,25
